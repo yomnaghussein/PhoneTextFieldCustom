@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PhoneTextFieldCustom</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="code_hint">+20</string>
+    <string name="ok">Ok</string>
+</resources>
